@@ -20,7 +20,7 @@ ${data.usage}
 ## License
 ${data.license}
 ## Contributing
-${data.contribute}
+*github contributors goes here*
 ## Tests
 ${data.tests}
 ## Questions
